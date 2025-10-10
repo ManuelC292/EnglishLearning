@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manuelc292.github.io/EnglishLearning/sitemap.xml
